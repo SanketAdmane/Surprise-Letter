@@ -246,9 +246,9 @@ body {
       }
 
       .reset button {
-        margin: 10px;
-        font-size: 10px;
-        padding: 10px;
-        min-width: 100px;
+       margin: 10px;
+        font-size: 15px;
+        padding: 12px;
+        min-width: 120px;
     }
 }
